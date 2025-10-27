@@ -1,0 +1,5 @@
+{
+  "name": "Quotex Signal Analyzer AI",
+  "description": "An AI-powered tool to analyze Quotex binary options screenshots. Upload a chart image to get professional technical analysis, buy/sell signals, and market insights using Gemini.",
+  "requestFramePermissions": []
+}
